@@ -1,0 +1,12 @@
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6.csprojResolveAssemblyReference.cache
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\MainWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\MainWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\App.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6_MarkupCompile.cache
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6.g.resources
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6.Properties.Resources.resources
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6.csproj.GenerateResource.Cache
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\bin\Debug\Resident_Evil6.exe
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\bin\Debug\Resident_Evil6.pdb
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6.exe
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil6\Resident_Evil6\obj\Debug\Resident_Evil6.pdb

@@ -1,0 +1,12 @@
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack.csprojResolveAssemblyReference.cache
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\MainWindow.baml
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\MainWindow.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\App.g.cs
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack_MarkupCompile.cache
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack.g.resources
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack.Properties.Resources.resources
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack.csproj.GenerateResource.Cache
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\bin\Debug\Resident_Evil_pack.exe
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\bin\Debug\Resident_Evil_pack.pdb
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack.exe
+c:\users\鑫\documents\visual studio 2012\Projects\Resident_Evil_pack\Resident_Evil_pack\obj\Debug\Resident_Evil_pack.pdb
